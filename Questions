@@ -4,4 +4,6 @@ Diffrence between Ienumerable and Iquerable
   the passed parameter meets those criteria or not. A predicate delegate methods must take one input parameter and return a boolean - true
   or false.
   
+  https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/expression-trees/#:~:text=In%20this%20article&text=Expression%20trees%20represent%20code%20in,code%20represented%20by%20expression%20trees.
+  
   https://stackoverflow.com/questions/2433306/whats-the-difference-between-iqueryable-and-ienumerable
