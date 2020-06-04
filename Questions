@@ -1,1 +1,7 @@
-
+Diffrence between Ienumerable and Iquerable
+  Predicate Delegate
+  A predicate is also a delegate like Func and Action delegates. It represents a method that contains a set of criteria and checks whether
+  the passed parameter meets those criteria or not. A predicate delegate methods must take one input parameter and return a boolean - true
+  or false.
+  
+  https://stackoverflow.com/questions/2433306/whats-the-difference-between-iqueryable-and-ienumerable
